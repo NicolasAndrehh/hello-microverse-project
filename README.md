@@ -47,7 +47,6 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Nicolas Olaya] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
 
 **[Hello Microverse Project]** is a project for the day 2 of microverse program.
 
@@ -57,8 +56,6 @@ After you're finished please remove all the comments and instructions!
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
 
 You have to clone the project on a computer with node.js installed and then run the following commands:
 - npm init -y
@@ -79,8 +76,6 @@ In order to run this project you need:
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
-
-> Mention all of the collaborators of this project.
 
 👤 **Nicolas Olaya**
 
