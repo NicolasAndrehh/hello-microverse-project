@@ -27,10 +27,9 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse Hello Project</b></h3>
+  <h1><b>Hello Microverse Project</b></h1>
 
 </div>
 
@@ -41,13 +40,13 @@ After you're finished please remove all the comments and instructions!
 - [📖 About the Project](#about-project)
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
+- [🔭 Future Features](#future-features)
 - [👥 Authors](#authors)
 
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 [Nicolas Olaya] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
 
 **[Hello Microverse Project]** is a project for the day 2 of microverse program.
 
@@ -57,8 +56,6 @@ After you're finished please remove all the comments and instructions!
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
 
 You have to clone the project on a computer with node.js installed and then run the following commands:
 - npm init -y
@@ -76,11 +73,21 @@ In order to run this project you need:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **[Soon I'll make a logo to put it in the ReadMe file]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📜 License <a name="license"></a>
+
+[MIT](/LICENSE.md)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
-
-> Mention all of the collaborators of this project.
 
 👤 **Nicolas Olaya**
 
