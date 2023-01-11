@@ -27,10 +27,9 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse Hello Project</b></h3>
+  <h1><b>Hello Microverse Project</b></h1>
 
 </div>
 
@@ -41,6 +40,7 @@ After you're finished please remove all the comments and instructions!
 - [📖 About the Project](#about-project)
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
+- [🔭 Future Features](#future-features)
 - [👥 Authors](#authors)
 
 <!-- PROJECT DESCRIPTION -->
@@ -70,6 +70,12 @@ You have to clone the project on a computer with node.js installed and then run 
 
 In order to run this project you need:
 - Node.js
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **[Soon I'll make a logo to put it in the ReadMe file]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
